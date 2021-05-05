@@ -1,0 +1,52 @@
+.title{
+    color:#FFFF00;
+}
+div{
+    color:black;
+}
+
+li{
+    font-family: fantasy;
+    display: inline;
+}
+
+
+
+.menu ul li a:hover{
+    color: white;
+
+}
+#h2w a:hover{
+    color: #F4bc33;
+
+}
+h1{
+    text-align: center;
+}
+
+@media  screen and(max-width:768px) {
+    *{
+        margin: 0;
+        padding: 0;
+       }
+    section, aside{
+        width: 100%;
+    }
+    
+}
+
+@media  screen and(max-width:500px){
+    *{
+        margin: 0;
+        padding: 0;
+       }
+  .meio iframe{
+      text-align: center;
+
+  }
+  
+}
+
+
+    
+
